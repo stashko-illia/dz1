@@ -1,1 +1,1 @@
-console.log("Lab №1.");
+console.log("Lab №1. This is now a dev branch.");
